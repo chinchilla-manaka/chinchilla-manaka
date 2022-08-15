@@ -11,4 +11,4 @@
 - ![my personal website]('https://bvbianca.neocities.org')
 - ![my music webpage]('https://bvbianca.bandcamp.com')
 
-![hampsterdance]('./media/hampsterdance.gif')
+![image](./media/hampsterdance.gif)
