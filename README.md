@@ -1,16 +1,14 @@
-### Hi there 👋
+## info:
+- 🐹🐭
+- artist
+- musician
+- human/rodent
+- i love music
+- free speech advocate
+- p2p data hoarder / data sharer
 
-<!--
-**chinchilla-manaka/chinchilla-manaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## sites:
+- ![my personal website]('https://bvbianca.neocities.org')
+- ![my music webpage]('https://bvbianca.bandcamp.com')
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![hampsterdance]('./media/hampsterdance.gif')
