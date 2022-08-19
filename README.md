@@ -10,8 +10,8 @@
 ![hampsterdance](media/hampsterdance.gif)
 
 ## sites:
-- [my personal website]('https://bvbianca.neocities.org')
-- [my music webpage]('https://bvbianca.bandcamp.com')
+- [my personal website](https://bvbianca.neocities.org)
+- [my music webpage](https://bvbianca.bandcamp.com)
 
 ## personal software:
 
