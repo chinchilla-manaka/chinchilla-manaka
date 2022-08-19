@@ -7,7 +7,7 @@
 - free speech advocate
 - p2p data hoarder / data sharer
 
-![hampsterdance]('media/hampsterdance.gif')
+![hampsterdance](media/hampsterdance.gif)
 
 ## sites:
 - [my personal website]('https://bvbianca.neocities.org')
